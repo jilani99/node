@@ -1,0 +1,4 @@
+In this exercise we need to create a program that reads a 
+file synchronously and prints the number of new lines in the 
+file to the console, similar to piping the cat command to word 
+count count command to count the number of lines in a file.
